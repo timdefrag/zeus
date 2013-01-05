@@ -1,0 +1,10 @@
+{
+  "name": "zeus",
+  "version": "0.0.1",
+  "author": "timdefrag <tim.defrag@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/timdefrag/zeus.git"
+  },
+  "license": "MIT"
+}
