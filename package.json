@@ -6,5 +6,8 @@
     "type": "git",
     "url": "https://github.com/timdefrag/zeus.git"
   },
+  "dependencies" : {
+    "underscore" : "1.4.x"
+  },
   "license": "MIT"
 }
